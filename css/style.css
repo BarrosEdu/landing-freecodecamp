@@ -33,5 +33,18 @@ header{
 }
 .card{
     display: inline-block;
-    padding: auto;
+    width: 100%;
+    margin: auto;
 }
+form{
+    margin-top:5%;
+}
+#footer{
+    text-decoration: none;
+    color: black;
+}
+footer{
+        background-color: gray;
+
+}
+
