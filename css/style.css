@@ -1,0 +1,25 @@
+body{
+    background-color: #e9ecef;
+}
+#icon{
+    font-size: larger;
+    color:#f72585;
+}
+#icon:hover{
+    color: #e85d04;
+}
+header{
+    background-color: #343a40;
+}
+#button{
+    text-align: center;
+    
+}
+#section2{
+    font-size: 40px;
+    color: red;
+    padding: 20px;
+}
+#features{
+    margin-top: 10%;
+}
