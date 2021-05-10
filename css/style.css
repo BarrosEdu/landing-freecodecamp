@@ -20,6 +20,18 @@ header{
     color: red;
     padding: 20px;
 }
-#features{
-    margin-top: 10%;
+
+#icon2{
+    display: block;
+    padding: 20px;
+    color: #003049;
+
+}
+#icon2:hover{
+    color: #b5179e;
+
+}
+.card{
+    display: inline-block;
+    padding: auto;
 }
