@@ -35,6 +35,10 @@ header{
     display: inline-block;
     width: 100%;
     margin: auto;
+    text-align: center;
+}
+#pricing{
+    text-align: center;
 }
 form{
     margin-top:5%;
