@@ -1,9 +1,9 @@
 body{
     background-color: #e9ecef;
 }
-#icon{
-    font-size: larger;
-    color:#f72585;
+/*Configuracao da nav-bar*/
+#header-img{
+width: 6%;
 }
 #icon:hover{
     color: #e85d04;
@@ -11,6 +11,7 @@ body{
 header{
     background-color: #343a40;
 }
+/*abre a primeira section com formulario de inscricao */
 #button{
     text-align: center;
     
@@ -31,6 +32,7 @@ header{
     color: #b5179e;
 
 }
+/*Abre a segunda section com video do usuario */
 .card{
     display: inline-block;
     width: 100%;
