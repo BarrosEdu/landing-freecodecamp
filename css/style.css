@@ -57,5 +57,17 @@ footer{
 #howitworks{
     border-radius: 10px;
 }
+#top {
+    position: fixed;
+    top: 85%;
+    left: 95%;
+    z-index: 10000000;
+    color: #fb0b6f;
+}
+#top:hover {
+	color: #00FF00;
+	cursor: pointer;
+	transition: 1s;
+}
 
 
